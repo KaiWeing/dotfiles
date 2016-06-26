@@ -1,0 +1,12 @@
+[user]
+	name = KaiWeing
+	email = KaiWeing@gmx.net
+[push]
+	default = simple
+[alias]
+	lg = log --oneline --decorate --all --graph
+	s = status -s
+	co = checkout
+	l = log --oneline
+[core]
+	autocrlf = true
